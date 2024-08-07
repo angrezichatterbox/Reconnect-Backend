@@ -27,7 +27,7 @@ Ensure you have Python 3.8 or higher, pip, installed.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/angrezichatterbox/reconnect-backend1.git
+   git clone https://github.com/angrezichatterbox/Reconnect-Backend.git
    ```
 
 2. **Navigate to the Project Directory**
